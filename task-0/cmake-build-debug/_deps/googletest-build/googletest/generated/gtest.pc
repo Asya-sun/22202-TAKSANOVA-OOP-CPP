@@ -1,5 +1,5 @@
-libdir=C:/Program Files (x86)/task_0/lib
-includedir=C:/Program Files (x86)/task_0/include
+libdir=C:/Program Files (x86)/cpp/lib
+includedir=C:/Program Files (x86)/cpp/include
 
 Name: gtest
 Description: GoogleTest (without main() function)

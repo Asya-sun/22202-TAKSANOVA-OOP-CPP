@@ -152,7 +152,7 @@ CMAKE_INSTALL_MANDIR:PATH=
 CMAKE_INSTALL_OLDINCLUDEDIR:PATH=/usr/include
 
 //Install path prefix, prepended onto install directories.
-CMAKE_INSTALL_PREFIX:PATH=C:/Program Files (x86)/task_0
+CMAKE_INSTALL_PREFIX:PATH=C:/Program Files (x86)/cpp
 
 //Run-time variable data (LOCALSTATEDIR/run)
 CMAKE_INSTALL_RUNSTATEDIR:PATH=
@@ -397,15 +397,6 @@ gtest_hide_internal_symbols:BOOL=OFF
 //Dependencies for the target
 gtest_main_LIB_DEPENDS:STATIC=general;gtest;
 
-//Value Computed by CMake
-task_0_BINARY_DIR:STATIC=C:/Users/PC/oop-cpp-labs/22202-TAKSANOVA-OOP-CPP/task-0/cmake-build-debug
-
-//Value Computed by CMake
-task_0_IS_TOP_LEVEL:STATIC=ON
-
-//Value Computed by CMake
-task_0_SOURCE_DIR:STATIC=C:/Users/PC/oop-cpp-labs/22202-TAKSANOVA-OOP-CPP/task-0
-
 
 ########################
 # INTERNAL cache entries
@@ -598,7 +589,7 @@ CMAKE_VERBOSE_MAKEFILE-ADVANCED:INTERNAL=1
 //linker supports push/pop state
 _CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED:INTERNAL=TRUE
 //CMAKE_INSTALL_PREFIX during last run
-_GNUInstallDirs_LAST_CMAKE_INSTALL_PREFIX:INTERNAL=C:/Program Files (x86)/task_0
+_GNUInstallDirs_LAST_CMAKE_INSTALL_PREFIX:INTERNAL=C:/Program Files (x86)/cpp
 //Compiler reason failure
 _Python_Compiler_REASON_FAILURE:INTERNAL=
 //Development reason failure
