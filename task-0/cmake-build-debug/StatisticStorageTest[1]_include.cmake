@@ -1,0 +1,5 @@
+if(EXISTS "C:/Users/PC/oop-cpp-labs/22202-TAKSANOVA-OOP-CPP/task-0/cmake-build-debug/StatisticStorageTest[1]_tests.cmake")
+  include("C:/Users/PC/oop-cpp-labs/22202-TAKSANOVA-OOP-CPP/task-0/cmake-build-debug/StatisticStorageTest[1]_tests.cmake")
+else()
+  add_test(StatisticStorageTest_NOT_BUILT StatisticStorageTest_NOT_BUILT)
+endif()

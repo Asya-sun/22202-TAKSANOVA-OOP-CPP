@@ -1,0 +1,15 @@
+# ninja log v5
+8	2372	7201219945257490	CMakeFiles/task_0.dir/main.cpp.obj	26fe762fb06be8c7
+1057	3566	7201220416835360	task_0.exe	6c910df81a3dbf5b
+35	8041	7201220001857782	CMakeFiles/task_0.dir/service/SplitService.cpp.obj	706f23cd691048d3
+22	2193	7201219943438745	CMakeFiles/task_0.dir/service/StatisticStorage.cpp.obj	c6dfe2f951770026
+1	406	7201224047005121	build.ninja	7aa09c437c7fc82c
+7	1056	7201220391863717	CMakeFiles/task_0.dir/service/CSVFileWriter.cpp.obj	93a9fdca77a88bae
+1	8038	7201224616019260	_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	c7640c43868ed10a
+21	18952	7201224724984962	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	344c28c4cdf13832
+18956	22993	7201224765665302	lib/libgtest.a	5be8b7ece0c826a9
+22993	23631	7201224772044382	lib/libgmock.a	ec9633167ff13830
+34	4035	7201227416270491	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	fcae0225d3a848f
+4035	4250	7201227418488755	lib/libgtest_main.a	5f1d201647e55d07
+14	4338	7201227419372815	CMakeFiles/FileReaderTest.dir/test/FileReaderTest.cc.obj	4b8e3991fa799991
+4339	9896	7201227474705886	FileReaderTest.exe	bb2c766dcfc1a673
