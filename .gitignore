@@ -1,8 +1,2 @@
-# Idea
-.idea/
-# CMake
-cmake-build-*/
-<<<<<<< HEAD
-
-=======
->>>>>>> 74524016e5a10c97939175d77de5a47add7df4f9
+.idea
+cmake-build-debug
