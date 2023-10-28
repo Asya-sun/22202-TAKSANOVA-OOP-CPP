@@ -8,7 +8,6 @@
 #include "CSVFileWriter.h"
 
 int main() {
-    //setlocale(LC_ALL, "RUS");
     FileReader fileReader("input.txt");
     fileReader.open();
     SplitService splitter;
