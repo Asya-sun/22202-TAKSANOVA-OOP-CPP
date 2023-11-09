@@ -9,7 +9,9 @@ add_executable(main main.cpp
         FileReader.h
         SplitService.h service/SplitService.cpp
         CSVFileWriter.h service/CSVFileWriter.cpp
-        StatisticStorage.h service/StatisticStorage.cpp)
+        StatisticStorage.h service/StatisticStorage.cpp
+        FileOpenError.h
+        FileOpenError.h)
 
 include(FetchContent)
 FetchContent_Declare(
@@ -35,11 +37,13 @@ add_executable(
 add_executable(
         FileReaderTest
         test/FileReaderTest.cc
+        FileOpenError.h
 )
 
 add_executable(
         CSVFileWriterTest
         test/CSVFileWriterTest.cc
+        FileOpenError.h
 )
 
 target_link_libraries(
